@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Array
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -110,10 +113,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -122,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+## Ordered Set
+|  |
+| ------- |
+| [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 <!---LeetCode Topics End-->
