@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1500-count-largest-group) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2915-count-of-interesting-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -53,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Math
 |  |
 | ------- |
@@ -114,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+## Simulation
+|  |
+| ------- |
+| [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 <!---LeetCode Topics End-->
