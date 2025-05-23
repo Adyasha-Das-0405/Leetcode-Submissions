@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
 | [2915-count-of-interesting-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2915-count-of-interesting-subarrays) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3639-zero-array-transformation-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -95,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -154,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Tree
+|  |
+| ------- |
+| [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 <!---LeetCode Topics End-->
