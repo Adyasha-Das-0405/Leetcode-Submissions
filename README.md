@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3194-find-words-containing-character) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
