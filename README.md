@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
