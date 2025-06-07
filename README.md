@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
