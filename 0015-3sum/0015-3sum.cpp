@@ -1,28 +1,35 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        set<vector<int>> triplets; // to avoid duplicates
-        int n = nums.size();
+        vector<vector<int>> result;
         sort(nums.begin(), nums.end());
 
-        for (int i = 0; i < n; ++i) {
-            // Skip duplicates for the first number
+        for (int i = 0; i < nums.size(); ++i) {
+            // Skip duplicate elements to avoid repeating triplets
             if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-            unordered_set<int> seen;
-            for (int j = i + 1; j < n; ++j) {
-                int third = -nums[i] - nums[j];
-                if (seen.count(third)) {
-                    vector<int> triplet = {nums[i], nums[j], third};
-                    sort(triplet.begin(), triplet.end()); // sort before inserting to set
-                    triplets.insert(triplet);
+            int left = i + 1;
+            int right = nums.size() - 1;
+
+            while (left < right) {
+                int sum = nums[i] + nums[left] + nums[right];
+
+                if (sum > 0) {
+                    --right;
+                } else if (sum < 0) {
+                    ++left;
+                } else {
+                    result.push_back({nums[i], nums[left], nums[right]});
+                    ++left;
+
+                    // Skip duplicates for the second number
+                    while (left < right && nums[left] == nums[left - 1]) {
+                        ++left;
+                    }
                 }
-                seen.insert(nums[j]);
             }
         }
 
-        // Convert set to vector
-        vector<vector<int>> result(triplets.begin(), triplets.end());
         return result;
     }
 };
