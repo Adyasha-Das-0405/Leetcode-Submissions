@@ -233,4 +233,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
