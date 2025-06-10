@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Depth-First Search
@@ -245,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
