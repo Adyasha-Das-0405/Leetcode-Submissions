@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1500-count-largest-group) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2868-continuous-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2868-continuous-subarrays) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
