@@ -5,20 +5,20 @@ public:
         int right = height.size() - 1;
         int leftMax = height[left];
         int rightMax = height[right];
-        int water = 0;
+        int trapped = 0;
 
         while (left < right) {
             if (leftMax < rightMax) {
                 left++;
                 leftMax = max(leftMax, height[left]);
-                water += leftMax - height[left];
+                trapped += leftMax - height[left];
             } else {
                 right--;
                 rightMax = max(rightMax, height[right]);
-                water += rightMax - height[right];
+                trapped += rightMax - height[right];
             }
         }
 
-        return water;        
+        return trapped;        
     }
 };
