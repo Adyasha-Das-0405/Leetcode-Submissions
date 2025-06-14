@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1500-count-largest-group](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1500-count-largest-group) |
 | [2050-count-good-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2050-count-good-numbers) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
