@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Greedy
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3748-sort-matrix-by-diagonals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
 | ------- |
