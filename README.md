@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -412,4 +414,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
