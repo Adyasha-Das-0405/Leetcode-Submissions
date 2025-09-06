@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3791-fruits-into-baskets-iii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3637-count-number-of-balanced-permutations) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Tree
 |  |
 | ------- |
