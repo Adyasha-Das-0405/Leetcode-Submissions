@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2050-count-good-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+| [2998-count-symmetric-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [2998-count-symmetric-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
