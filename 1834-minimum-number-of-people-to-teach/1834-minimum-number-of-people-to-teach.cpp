@@ -1,33 +1,37 @@
 class Solution {
 public:
-    int minimumTeachings(int n, vector<vector<int>>& languages,
-                         vector<vector<int>>& friendships) {
-        unordered_set<int> cncon;
-        for (auto friendship : friendships) {
-            unordered_map<int, int> mp;
-            bool conm = false;
-            for (int lan : languages[friendship[0] - 1]) {
-                mp[lan] = 1;
+    int minimumTeachings(int n, vector<vector<int>>& languages, vector<vector<int>>& friendships) {
+        int m = languages.size();
+        vector<vector<char>> matrix(m + 1, vector<char>(n + 1, false));
+        for (int i = 0; i < m; i++) {
+            for (const auto& language : languages[i]) {
+                matrix[i + 1][language] = true;
             }
-            for (int lan : languages[friendship[1] - 1]) {
-                if (mp[lan]) {
-                    conm = true;
+        }
+        vector<char> learn(m + 1, false);
+        for (const auto& friendship : friendships) {
+            bool can_communicate = false;
+            for (int i = 1; i <= n; i++) {
+                if (matrix[friendship[0]][i] && matrix[friendship[1]][i]) {
+                    can_communicate = true;
                     break;
                 }
             }
-            if (!conm) {
-                cncon.insert(friendship[0] - 1);
-                cncon.insert(friendship[1] - 1);
+            if (!can_communicate) {
+                learn[friendship[0]] = true;
+                learn[friendship[1]] = true;
             }
         }
-        int max_cnt = 0;
-        vector<int> cnt(n + 1, 0);
-        for (auto friendship : cncon) {
-            for (int lan : languages[friendship]) {
-                cnt[lan]++;
-                max_cnt = max(max_cnt, cnt[lan]);
+        int minimum_learnings = INT_MAX;
+        for (int i = 1; i <= n; i++) {
+            int learnings = 0;
+            for (int j = 1; j <= m; j++) {
+                if (learn[j] && !matrix[j][i]) {
+                    learnings++;
+                }
             }
+            minimum_learnings = min(minimum_learnings, learnings);
         }
-        return cncon.size() - max_cnt;
+        return minimum_learnings;
     }
 };
