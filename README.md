@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation
 |  |
 | ------- |
