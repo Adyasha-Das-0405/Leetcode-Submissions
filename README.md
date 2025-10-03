@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0679-24-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 ## Graph
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
+| [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
