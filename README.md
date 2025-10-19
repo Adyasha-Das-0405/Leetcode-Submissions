@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2346-largest-3-same-digit-number-in-string) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Graph
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Trie
 |  |
 | ------- |
