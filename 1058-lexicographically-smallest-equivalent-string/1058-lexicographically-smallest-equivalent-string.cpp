@@ -1,5 +1,6 @@
 class Solution {
 public:
+    // DFS to find the smallest lex character in the component
     char dfs(unordered_map<char, vector<char>>& adj, char cur, vector<int>& vis) {
         vis[cur - 'a'] = 1;
         char minChar = cur;
@@ -15,13 +16,15 @@ public:
         int n = s1.length();
         unordered_map<char, vector<char>> adj;
 
+        // Step 1: Build the equivalence graph
         for (int i = 0; i < n; ++i) {
             char u = s1[i];
             char v = s2[i];
             adj[u].push_back(v);
             adj[v].push_back(u);
-        } 
+        }
 
+        // Step 2: Replace each character in baseStr with the smallest equivalent
         string result;
         for (char ch : baseStr) {
             vector<int> vis(26, 0);
