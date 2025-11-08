@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3791-fruits-into-baskets-iii) |
