@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2050-count-good-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2288-count-operations-to-obtain-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
