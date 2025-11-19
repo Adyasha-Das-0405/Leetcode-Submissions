@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [2320-find-all-k-distant-indices-in-an-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
