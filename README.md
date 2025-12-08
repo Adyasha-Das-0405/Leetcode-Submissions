@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1925-count-square-sum-triples](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [2050-count-good-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2050-count-good-numbers) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2288-count-operations-to-obtain-zero) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [1656-count-good-triplets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1925-count-square-sum-triples](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1925-count-square-sum-triples) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
