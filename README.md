@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3647-zero-array-transformation-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Ordered Set
