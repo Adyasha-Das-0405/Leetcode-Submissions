@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
