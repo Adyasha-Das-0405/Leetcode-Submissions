@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3583-count-special-triplets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3606-coupon-code-validator](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3606-coupon-code-validator) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3637-count-number-of-balanced-permutations) |
@@ -479,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Design
 |  |
 | ------- |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Trie
 |  |
 | ------- |
