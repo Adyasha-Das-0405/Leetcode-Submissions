@@ -5,10 +5,10 @@ public:
     static long long maxProfit(vector<int>& prices, vector<int>& strategy, int k) {
         const int n=prices.size(), k2=k/2;
         long long modify=0;
-        for(int i=0; i<n; i++){
-            const int x=prices[i]; 
-            sum[i+1]=sum[i]+strategy[i]*x;
-            modify+=(-(i>=k2 & i<k)& x);
+        for(int i=0; i<n; i++){ 
+            const int x=prices[i] ; 
+            sum[i+1]=sum[i]+strategy[i]*x ;
+            modify+=(-(i>=k2 & i<k)& x) ;
         }
         long long profit=max(sum[n], modify+sum[n]-sum[k]);
 
