@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -505,15 +506,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
 ## Graph
 |  |
 | ------- |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Union Find
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Stack
 |  |
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Trie
 |  |
