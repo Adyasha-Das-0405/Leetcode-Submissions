@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
