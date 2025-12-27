@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2402-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2402-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2402-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2402-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
@@ -480,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2402-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
