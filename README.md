@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1500-count-largest-group) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [0756-pyramid-transition-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -502,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0342-power-of-four) |
+| [0756-pyramid-transition-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -606,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0679-24-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0679-24-game) |
+| [0756-pyramid-transition-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0756-pyramid-transition-matrix) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 ## Memoization
 |  |
