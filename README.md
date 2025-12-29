@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2561-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2561-rearranging-fruits) |
 | [2689-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2915-count-of-interesting-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2915-count-of-interesting-subarrays) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2561-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2561-rearranging-fruits) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2625-increment-submatrices-by-one) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2561-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2561-rearranging-fruits) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2689-rearranging-fruits) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2561-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2561-rearranging-fruits) |
 | [2681-put-marbles-in-bags](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2681-put-marbles-in-bags) |
 | [2689-rearranging-fruits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2689-rearranging-fruits) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
