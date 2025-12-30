@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
 | [0756-pyramid-transition-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0679-24-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
+| [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0944-delete-columns-to-make-sorted) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0826-soup-servings) |
+| [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [1018-largest-perimeter-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -590,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2625-increment-submatrices-by-one) |
