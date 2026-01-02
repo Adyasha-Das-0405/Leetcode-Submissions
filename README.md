@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -599,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2625-increment-submatrices-by-one) |
+| [3363-find-the-maximum-number-of-fruits-collected](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3748-sort-matrix-by-diagonals) |
