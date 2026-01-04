@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2402-meeting-rooms-iii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2429-design-a-food-rating-system](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2429-design-a-food-rating-system) |
+| [2438-range-product-queries-of-powers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2438-range-product-queries-of-powers) |
 | [2479-meeting-rooms-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2438-range-product-queries-of-powers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2438-range-product-queries-of-powers) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2625-increment-submatrices-by-one](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2625-increment-submatrices-by-one) |
@@ -527,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
+| [2438-range-product-queries-of-powers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2438-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
