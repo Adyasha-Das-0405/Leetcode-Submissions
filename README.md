@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0567-permutation-in-string) |
+| [0837-new-21-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0837-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1695-maximum-erasure-value](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0826-soup-servings) |
+| [0837-new-21-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0837-new-21-game) |
 | [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1018-largest-perimeter-triangle) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0806-domino-and-tromino-tiling) |
 | [0826-soup-servings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0826-soup-servings) |
+| [0837-new-21-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0837-new-21-game) |
 | [0875-longest-mountain-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0875-longest-mountain-in-array) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -637,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0826-soup-servings) |
+| [0837-new-21-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0837-new-21-game) |
 ## Backtracking
 |  |
 | ------- |
