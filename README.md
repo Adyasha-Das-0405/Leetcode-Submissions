@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0756-pyramid-transition-matrix) |
 | [0797-rabbits-in-forest](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0797-rabbits-in-forest) |
 | [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0869-reordered-power-of-2](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -543,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -561,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
@@ -589,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0386-lexicographical-numbers) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -659,5 +663,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
