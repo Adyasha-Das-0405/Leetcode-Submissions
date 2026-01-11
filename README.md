@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0135-candy) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0416-partition-equal-subset-sum) |
@@ -586,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -611,12 +614,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
