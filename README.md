@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1293-three-consecutive-odds) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1390-four-divisors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1390-four-divisors) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0840-magic-squares-in-grid) |
 | [0869-reordered-power-of-2](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1018-largest-perimeter-triangle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1390-four-divisors) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -674,4 +676,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
