@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3454-separate-squares-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3453-separate-squares-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3453-separate-squares-i) |
+| [3454-separate-squares-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3454-separate-squares-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Prefix Sum
 |  |
@@ -646,6 +648,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [3454-separate-squares-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3454-separate-squares-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
 |  |
@@ -684,4 +687,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
