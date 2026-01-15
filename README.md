@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1656-count-good-triplets) |
 | [1695-maximum-erasure-value](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1695-maximum-erasure-value) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1792-maximum-average-pass-ratio](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1717-maximum-score-from-removing-substrings) |
+| [1792-maximum-average-pass-ratio](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1792-maximum-average-pass-ratio) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0407-trapping-rain-water-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1792-maximum-average-pass-ratio](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1792-maximum-average-pass-ratio) |
 | [2054-two-best-non-overlapping-events](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2163-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2163-minimum-difference-in-sums-after-removal-of-elements) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
