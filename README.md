@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [1200-minimum-absolute-difference](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [1293-three-consecutive-odds](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1293-three-consecutive-odds) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0869-reordered-power-of-2) |
 | [1018-largest-perimeter-triangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1200-minimum-absolute-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2054-two-best-non-overlapping-events](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2092-find-all-people-with-secret) |
