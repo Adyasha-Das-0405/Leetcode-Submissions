@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3647-zero-array-transformation-iii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Math
 |  |
 | ------- |
@@ -711,4 +712,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
