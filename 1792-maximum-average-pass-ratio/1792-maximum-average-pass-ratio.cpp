@@ -18,9 +18,7 @@ public:
         for (int i = 0; i < k; i++) {
             pop_heap(A, A+n);
             auto [r, p, q] = A[n-1];
-            if (r==0) break;// early stop
-            
-            // Add the current inc to the sum
+            if (r==0) break;
             sum += r;
             double r2= (double)(q - p) / ((q +1.0)* (q + 2.0));
             A[n-1]={ r2, p+1, q+1};
