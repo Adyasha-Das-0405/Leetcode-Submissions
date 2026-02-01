@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2998-count-symmetric-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
