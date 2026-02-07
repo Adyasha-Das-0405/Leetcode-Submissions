@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1636-number-of-substrings-with-only-1s) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2054-two-best-non-overlapping-events](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2054-two-best-non-overlapping-events) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/0085-maximal-rectangle) |
 | [1021-remove-outermost-parentheses](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
