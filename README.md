@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1717-maximum-score-from-removing-substrings](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1717-maximum-score-from-removing-substrings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
