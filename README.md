@@ -402,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3676-smallest-number-with-all-set-bits](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-count-number-of-balanced-permutations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3637-count-number-of-balanced-permutations) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Combinatorics
 |  |
 | ------- |
