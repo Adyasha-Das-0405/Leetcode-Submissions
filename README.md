@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -392,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2998-count-symmetric-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/2998-count-symmetric-integers) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3433-count-mentions-per-user](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3433-count-mentions-per-user) |
 | [3548-find-the-count-of-good-integers](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3548-find-the-count-of-good-integers) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/1266-minimum-time-visiting-all-points) |
 | [3025-find-the-number-of-ways-to-place-people-i](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3025-find-the-number-of-ways-to-place-people-i) |
+| [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Adyasha-Das-0405/Leetcode-Submissions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Line Sweep
 |  |
 | ------- |
